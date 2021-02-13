@@ -14,7 +14,5 @@ This project is created with
 3. Javascript
 
 ## To run this project
-***
 - Download Project
 - Run .html file in browser
-***
